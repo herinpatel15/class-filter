@@ -93,7 +93,7 @@ This flexibility allows you to build more dynamic and responsive UIs with ease.
 
 ## License
 
-This project is licensed under the ISC License. See the [LICENSE](./LICENSE) file for more details.
+ISC
 
 ## Contributing
 
